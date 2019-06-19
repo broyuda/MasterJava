@@ -1,2 +1,0 @@
-# MasterJava
-File Javascript Broyuda
